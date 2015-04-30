@@ -5,4 +5,4 @@ eg: pdf,png,doc,jpg etc.
 
 #问题反馈
 
-如有任何问题请通过601608602@qq.com 或者 alldnnwanglu@gmial.com向我反馈,Enjoy!
+如有任何问题请通过601608602@qq.com 或者 alldnnwanglu@gmail.com向我反馈,Enjoy!
